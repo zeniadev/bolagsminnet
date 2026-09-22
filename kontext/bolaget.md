@@ -1,8 +1,11 @@
 # Om oss
 
-> **Så här använder du filen:** svara på de fyra frågorna nedan, ta bort exempeltexten
-> och den här rutan, och klistra in hela filen överst i din AI-chatt. Skriv som du pratar.
-> Fastnar du — hoppa över och gå vidare. En halv fil slår ingen fil.
+> ⚡ **Enklare väg:** låt AI:n intervjua dig i stället för att fylla i det här för hand.
+> Klistra in meningen i [README:n](../README.md) — tio minuter, och den skriver filen åt dig.
+>
+> **Vill du fylla i själv:** svara på de fyra frågorna, ta bort exempeltexten och den här
+> rutan, och klistra in hela filen överst i din AI-chatt. Skriv som du pratar. Fastnar du —
+> hoppa över och gå vidare. En halv fil slår ingen fil.
 
 ---
 
